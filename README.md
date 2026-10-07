@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=React+Native+Developer;Android+%26+iOS+Specialist;Full+Stack+Developer;Building+Scalable+Mobile+Apps;Open+to+Remote+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=React+Native+Developer;Full+Stack+Developer;Android+%26+iOS+Developer;Building+Production+Ready+Apps;React+%7C+Next.js+%7C+Node.js;Open+to+Remote+Opportunities" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🚀 Building scalable mobile applications with clean architecture & exceptional user experience.
+### 🚀 React Native Developer building production-ready mobile & web applications.
 
 <p>
 
@@ -38,24 +38,35 @@
 
 ```ts
 const divyesh = {
-    role: "React Native Developer",
+    role: "React Native & Full Stack Developer",
     experience: "3+ Years",
     location: "Gujarat, India 🇮🇳",
 
-    expertise: [
-        "React Native",
-        "Android",
-        "iOS",
-        "React",
-        "Next.js",
-        "Node.js"
+    stack: {
+        mobile: ["React Native", "Android", "iOS"],
+        frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
+        backend: ["Node.js", "REST APIs"],
+        database: ["Firebase", "Supabase", "MongoDB", "PostgreSQL"]
+    },
+
+    building: [
+        "Production-ready mobile applications",
+        "Scalable web applications",
+        "Startup MVPs",
+        "AI-powered applications"
     ],
 
-    currentlyWorkingOn: "AI Powered Mobile Applications",
+    services: [
+        "Mobile App Development",
+        "Web Development",
+        "API Integration",
+        "Bug Fixing & Performance Optimization",
+        "App Store Deployment"
+    ],
 
-    availableFor: [
-        "Freelance",
-        "Remote Jobs",
+    availability: [
+        "Remote Opportunities",
+        "Freelance Projects",
         "Contract Work"
     ]
 }
@@ -65,35 +76,53 @@ const divyesh = {
 
 # 🚀 What I Do
 
-📱 Cross Platform Mobile Apps
+📱 **React Native Mobile Development**
+Build cross-platform Android & iOS applications with scalable architecture.
 
-⚡ Startup MVP Development
+🌐 **Full Stack Development**
+Develop modern web applications using React, Next.js and Node.js.
 
-🔥 React Native Performance Optimization
+⚡ **MVP Development**
+Turn startup ideas into functional, production-ready MVPs.
 
-💳 Payment Gateway Integration
+🔧 **Bug Fixing & App Improvements**
+Fix existing mobile apps, improve UI, resolve API issues and optimize performance.
 
-🔔 Push Notifications
+🔗 **API & Backend Integration**
+REST APIs, authentication, Firebase, Supabase and third-party services.
 
-☁ Firebase & Supabase
+💳 **Payment Integrations**
+Implement secure payment flows and transaction-based features.
 
-🔗 REST API Integration
+🔔 **Push Notifications**
+Firebase Cloud Messaging and notification-driven application flows.
 
-🚀 Play Store & App Store Deployment
+☁ **Firebase & Supabase**
+Authentication, databases, storage, real-time features and backend services.
+
+🚀 **App Deployment**
+Android Play Store and Apple App Store builds, releases and production support.
+
+🎬 **Short-form Video Editing**
+Editing reels, shorts and social-media content.
 
 ---
 
 # 🛠 Tech Stack
 
-## Mobile
+## 📱 Mobile Development
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,androidstudio,apple,firebase"/>
+<img src="https://skillicons.dev/icons?i=react,androidstudio,apple"/>
 
 </p>
 
-## Frontend
+**React Native • Android • iOS • Expo • React Navigation**
+
+---
+
+## 🌐 Frontend
 
 <p>
 
@@ -101,7 +130,11 @@ const divyesh = {
 
 </p>
 
-## Backend
+**React • Next.js • TypeScript • JavaScript • Tailwind CSS**
+
+---
+
+## ⚙️ Backend
 
 <p>
 
@@ -109,75 +142,126 @@ const divyesh = {
 
 </p>
 
-## Database
+**Node.js • Express.js • REST APIs**
+
+---
+
+## 🗄️ Database & Cloud
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,postgresql,supabase"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,postgresql"/>
 
 </p>
 
-## Tools
+**Firebase • Supabase • MongoDB • PostgreSQL**
+
+---
+
+## 🧰 Tools & Workflow
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
 </p>
+
+**Git • GitHub • VS Code • Figma • Postman**
 
 ---
 
 # 🌟 Featured Projects
 
+## 🛍️ GetEpik
+
+A product discovery and demo-booking platform that allows customers to experience products through **Try at Home** and **Video Demo** experiences before purchasing.
+
+**Built with**
+
+* React Native
+* Next.js
+* REST APIs
+* Firebase
+* Cloud services
+* Android & iOS
+
+**Key Features**
+
+* Product discovery
+* Product variants
+* Try-at-Home booking
+* Video demos
+* Address management
+* Availability checking
+* API-driven product flows
+* Mobile & web experiences
+
+---
+
 ## 🌱 GreenFi AI
 
-AI-powered ESG platform helping enterprises automate sustainability reporting and risk analysis.
+AI-powered ESG platform designed to help enterprises with sustainability reporting, analysis and risk management.
 
 **Highlights**
 
-* AI Integrations
-* Dashboard Development
-* ESG Reporting
-* API Integration
-* Performance Optimization
+* AI integrations
+* Dashboard development
+* ESG reporting
+* API integrations
+* Data visualization
+* Performance optimization
 
 ---
 
-## 📅 Booking Platform
+## 🐾 Pawzy
 
-✔ Appointment Scheduling
+A React Native MVP for pet owners to discover and book pet-related services.
 
-✔ Push Notifications
+**Highlights**
 
-✔ Firebase
-
-✔ Payment Integration
-
-✔ Multi-role Dashboard
-
----
-
-## 🏥 Healthcare Application
-
-✔ Barcode Scanning
-
-✔ Real-time Updates
-
-✔ REST APIs
-
-✔ Offline Support
+* Authentication
+* Service discovery
+* Location-based availability
+* Booking flows
+* Navigation
+* Mobile-first UI
 
 ---
 
-## 💰 Fintech Applications
+## 📊 Business & Dashboard Applications
 
-✔ Authentication
+Built multiple applications involving complex dashboards, reports and data-driven workflows.
 
-✔ Reports
+**Common Features**
 
-✔ Dashboards
+* Authentication & authorization
+* REST APIs
+* Role-based access
+* Data dashboards
+* Reports
+* Firebase integrations
+* Real-time updates
+* Responsive interfaces
 
-✔ Secure APIs
+---
+
+# 💡 Areas I Enjoy Working On
+
+```text
+React Native Applications
+        ↓
+Clean & Scalable Architecture
+        ↓
+API / Backend Integration
+        ↓
+Performance Optimization
+        ↓
+Production Deployment
+        ↓
+Continuous Improvements
+```
+
+I enjoy taking an application from **idea → development → deployment → production support**.
 
 ---
 
@@ -223,13 +307,30 @@ AI-powered ESG platform helping enterprises automate sustainability reporting an
 
 ---
 
-# 💼 Currently Learning
+# 🚧 Currently Exploring
 
-* AI Integrations
-* Mobile Architecture
-* Performance Engineering
-* Scalable Backend Systems
-* Advanced TypeScript
+* 🤖 AI integrations in mobile & web applications
+* 📱 Advanced React Native architecture
+* ⚡ Mobile performance optimization
+* 🌐 Scalable Next.js applications
+* 🔧 Node.js backend systems
+* ☁️ Cloud infrastructure & storage
+* 🧩 Better developer tooling & automation
+* 🎬 Short-form video content & editing
+
+---
+
+# 💼 Open To
+
+I'm currently interested in:
+
+* 💻 Remote React Native opportunities
+* 📱 React Native development projects
+* 🌐 Full-stack development
+* 🚀 Startup & MVP projects
+* 🔧 App maintenance and bug fixing
+* 🤝 Freelance & contract work
+* 🎬 Video editing projects
 
 ---
 
@@ -247,11 +348,15 @@ https://divyeshsenjaliya.vercel.app/
 
 https://www.linkedin.com/in/divyesh-senjaliya-7726bb266/
 
+💻 **GitHub**
+
+https://github.com/DivyeshSenjaliya
+
 ---
 
 # 💬 Favorite Quote
 
-> "Code is not just about making things work. It's about making them simple, scalable, and enjoyable to maintain."
+> "Build things that are simple to use, scalable to maintain, and meaningful to the people using them."
 
 ---
 
@@ -259,6 +364,8 @@ https://www.linkedin.com/in/divyesh-senjaliya-7726bb266/
 
 ### ⭐ Thanks for visiting!
 
-If you like my work, don't forget to ⭐ my repositories.
+If you find something useful here, feel free to ⭐ the repository.
+
+### Let's build something great together 🚀
 
 </div>
